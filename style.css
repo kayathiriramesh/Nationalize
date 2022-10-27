@@ -1,0 +1,29 @@
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    }
+.content{
+    background-color:darkkhaki;
+    padding:100px;
+    margin-top: 50px;
+    border:3px solid black;
+    }
+.heading{
+    text-align:center;
+}   
+#main1{
+    width: 470px;
+    margin-left: 200px;
+    margin-top: 50px;
+} 
+#names{
+    font-size:larger;
+}
+mark {
+    background-color: yellow;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:italic;
+  }
